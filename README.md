@@ -1,7 +1,5 @@
 # Assisted Reservoir Simulation using AI - Proxy Model MIMO (Multiple Input - Multiple Output)
 
-Assisted Reservoir Simulation using AI - Proxy Model MIMO (Multiple Input - Multiple Output)
-
 # Objective
 The objective of this project is to develop a MIMO (Multiple Input, Multiple Output) proxy model using Artificial Intelligence methods (XGBoost, Random Forest, Gradient Boosting), aiming to emulate the behavior of a reservoir simulation model applied to a synthetic oilfield.
 
