@@ -1,13 +1,14 @@
-# ML_Reservoir_Simulation
+# Assisted Reservoir Simulation using AI - Proxy Model MIMO (Multiple Input - Multiple Output)
+
 Assisted Reservoir Simulation using AI - Proxy Model MIMO (Multiple Input - Multiple Output)
 
-Objective
+# Objective
 The objective of this project is to develop a MIMO (Multiple Input, Multiple Output) proxy model using Artificial Intelligence methods (XGBoost, Random Forest, Gradient Boosting), aiming to emulate the behavior of a reservoir simulation model applied to a synthetic oilfield.
 
-Dataset Description
+# Dataset Description
 The provided "DataSimulation.csv" dataset consists of 312 simulations conducted using a conventional Black Oil reservoir simulator for the purpose of history matching a synthetic oilfield. Here is included the description of the variables:
 
-Input Variables:
+<b>Input Variables:</b>
 
 $AQ_Index: Aquifer Productivity Index (bpd/psi)
 
@@ -21,7 +22,7 @@ $PERM_2: Permeability Multiplier Rock 2
 
 $KRWMAX: Water Relative Permeability Corey endpoint (adim).
 
-Output Variables:
+<b>Output Variables:</b>
 
 $PWS1: Static Pressure Control Point 1 (psi)
 
