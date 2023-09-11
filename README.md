@@ -41,3 +41,6 @@ $WC1: Water Cut Control Point 1 (frac)
 $WC2: Water Cut Control Point 2 (frac)
 
 $PWFEND: Bottom Hole Pressure end (psi)
+
+# Jupyter Notebook
+To be able to see the Code in Jupyter Notebook please click on the file "Machine Learning - Reservoir Simulation History Match Optimization.ipynb"
